@@ -1,2 +1,4 @@
 # Ignore environment files
 venv/
+__pycache__/
+.env/
