@@ -1,6 +1,6 @@
 # Django Weather App
 
-Django temperature fetching app with OpenWeather API
+Django weather fetching app with OpenWeather API
 
 ## Features
 
@@ -10,6 +10,6 @@ Django temperature fetching app with OpenWeather API
 
 ## Setup
 
-git clone: https://github.com/kyurban/Weather-App.git
+git clone: https://github.com/kyurban/Weather-App.git <br>
 Obtain API key from: https://openweathermap.org/api
 
